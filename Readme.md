@@ -2,7 +2,7 @@ There are two ways to execute python code:
 
 1. Write the code in the file and pass it to python intepreter:
   
-   ```
+   ```bash
    $ python GC_content.py
    ```
 
@@ -15,7 +15,7 @@ There are two ways to execute python code:
 
    and set the x execution bit:
 
-   ```
+   ```bash
    chmod a+x GC_content.py
    ```
 
