@@ -19,5 +19,10 @@ There are two ways to execute python code:
    chmod a+x GC_content.py
    ```
 
+   and run python program in terminal:
+
+   ```bash
+   $ ./GC_content.py
+   ```
 
 

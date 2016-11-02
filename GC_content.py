@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 dna = 'atcgaattggccatgctgactgacaccgt'  # read dna sequence
 no_c = dna.count('c')  # count the number of 'c' in dna sequence
 no_g = dna.count('g')  # count the number of 'g' in dna sequence
